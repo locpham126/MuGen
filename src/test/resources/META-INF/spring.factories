@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.locpham.mugen.\
+    config.TestContainersSpringContextCustomizerFactory,com.locpham.mugen.\
+    config.SqlTestContainersSpringContextCustomizerFactory
