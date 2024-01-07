@@ -8,4 +8,4 @@ Mu-Gen is a web app that asks the user to put in a song or playlist and then use
 
 My mvp will allow the user to play music and generate unique images based on song input.
 
-I’ll build this project using Spring, Java, SQL DB, and Angular front end.
+I’ll build this project using Spring, Java, SQL DB, and React front end.
